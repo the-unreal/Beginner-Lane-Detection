@@ -7,4 +7,4 @@ Execute the main.py file
 
 ### To run the system with your own video:
 * Put your video in the "data" folder
-* Edit line number 23 in main.py and put the name of your file
+* Edit line number 23 in main.py and put the name of your file (I'll later add an option for a command line argument for this)
